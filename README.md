@@ -18,5 +18,5 @@ Is Required.
     
 Once The Plot Has Finished, The Plot Can Be Saved To A File
 And Reloaded Back To The Graph At Any Time. View The
-TDS210.png File For An Examole.
+TDS210.png File For An Example.
     
