@@ -5,7 +5,7 @@ Or Code At Runtime. There Are Several Examples
 In The Test Class Which Also Includes An Example
 Of Communication With A Tektronix TDS210 Oscilloscope
 Via Gpib Bus. All Communication To The Oscilloscope
-Used The TDS210 Class. To Use The GPIB The Following
+Uses The TDS210 Class. To Use GPIB The Following
 Is Required.
 
 ########### REQUIREMENTS FOR GPIB ##########
@@ -18,5 +18,5 @@ Is Required.
     
 Once The Plot Has Finished, The Plot Can Be Saved To A File
 And Reloaded Back To The Graph At Any Time. View The
-TDS210.png File For An Example.
+TDS210.png File For An Example Of How The Graph Looks.
     
