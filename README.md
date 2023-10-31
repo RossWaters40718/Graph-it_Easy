@@ -17,5 +17,6 @@ Is Required.
     # This Class Assumes That Pyvisa And NI-VISA Are Installed And Working Correctly.
     
 Once The Plot Has Finished, The Plot Can Be Saved To A File
-And Reloaded Back To The Graph At Any Time.
+And Reloaded Back To The Graph At Any Time. View The
+TDS210.png File For An Examole.
     
